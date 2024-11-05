@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://oqehiaru.github.io/FRe/sitemap_index.txt
+Sitemap: https://oqehiaru.github.io/Iev/sitemap_index.txt
+Sitemap: https://oqehiaru.github.io/NBC/sitemap_index.txt
+Sitemap: https://oqehiaru.github.io/acd/sitemap_index.txt
